@@ -12,7 +12,7 @@ Platzipalooza es un proyecto de prueba en la realización de paginas web, realiz
 - Carrusel de fotos estáticos con orbit
 - Control de menu scroll con sticky
 - creando validación de formulario de suscripción
-- Utilizando la tengnolofia de formspree.io para envia datos del client
+- Utilizando la tengnolofia de formspree.io para envia datos del cliente
 
 
 ## Ejemplo
